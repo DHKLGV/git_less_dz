@@ -9,5 +9,5 @@
 
 Танос
 
-![Альтернативный текс](https://media.2x2tv.ru/content/images/size/w1440h1440/2021/11/thanosor.jpg)
+![Фильм1](https://media.2x2tv.ru/content/images/size/w1440h1440/2021/11/thanosor.jpg "Танос")
 
